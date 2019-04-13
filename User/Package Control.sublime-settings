@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Color Highlighter",
+		"Emmet",
+		"HTML Boilerplate",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Dark Material",
+		"View In Browser"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Theme - Dark Material/schemes/Dark-Material.tmTheme",
+	"dictionary": "Packages/User dictionaries/Polish.dic",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Dark-Material.sublime-theme"
+}
