@@ -7,13 +7,17 @@
 	[
 		"AdvancedNewFile",
 		"AutoFileName",
+		"Babel",
+		"Better CoffeeScript",
 		"Color Highlighter",
 		"Emmet",
 		"HTML Boilerplate",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"Theme - Dark Material",
-		"View In Browser"
+		"View In Browser",
+		"Vue Syntax Highlight"
 	]
 }

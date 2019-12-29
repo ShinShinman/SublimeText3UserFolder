@@ -1,1 +1,13 @@
-PyV8/*
+*/
+
+!User dictionaries/
+!User/
+
+User/Package Control.last-run
+User/Package Control.ca-list
+User/Package Control.ca-bundle
+User/Package Control.merged-ca-bundle
+User/Package Control.user-ca-bundle
+User/Package Control.system-ca-bundle
+User/Package Control.cache/
+User/Package Control.ca-certs/

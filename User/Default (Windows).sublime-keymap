@@ -1,0 +1,9 @@
+[
+	{"keys": ["ctrl+alt+s"], "command": "insert_snippet", "args": {"contents": "ś"} },
+	{"keys": ["ctrl+alt+shift+s"], "command": "insert_snippet", "args": {"contents": "Ś"} },
+	{"keys": ["ctrl+alt+c"], "command": "insert_snippet", "args": {"contents": "ć"} },
+	{"keys": ["ctrl+alt+shift+c"], "command": "insert_snippet", "args": {"contents": "Ć"} },
+	{ "keys": ["ctrl+alt+n"], "command": "insert_snippet", "args": {"contents": "ń"} },
+	{ "keys": ["ctrl+alt+shift+n"], "command": "insert_snippet", "args": {"contents": "Ń"} },
+	{ "keys": ["shift+ctrl+alt+n"], "command": "advanced_new_file_new"}
+]
